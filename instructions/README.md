@@ -91,7 +91,7 @@ Si bien las funcionalidades extra son un plus preferimos que las presentes esté
 
 No, no es necesario registrar usuarios ni proveer ninguna otra funcionalidad de backend que las mencionadas. Se aconseja dejar en el archivo `seed` un usuario para poder testear el funcionamiento de la app.
 
-### Puedo usar l gema X?
+### Puedo usar la gema X?
 
 Sí, siempre y cuando la misma sea una librería y no un framework completo.
 
