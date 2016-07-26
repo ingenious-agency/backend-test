@@ -63,7 +63,7 @@ Como un usuario logueado debo poder crear un evento con todos sus campos.
 
 ## Requerimientos no funcionales
 
-La aplicación deberá ser escrita en Ruby on Rails >= 4 o .Net.
+La aplicación deberá ser escrita en Ruby on Rails >= 4, .Net o Node.js.
 
 ## FAQ
 
