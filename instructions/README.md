@@ -91,11 +91,15 @@ Si bien las funcionalidades extra son un plus preferimos que las presentes esté
 
 No, no es necesario registrar usuarios ni proveer ninguna otra funcionalidad de backend que las mencionadas. Se aconseja dejar en el archivo `seed` un usuario para poder testear el funcionamiento de la app.
 
-### Puedo usar la gema X?
+### Puedo usar la gema / librería X?
 
 Sí, siempre y cuando la misma sea una librería y no un framework completo.
 
 Para poner un ejemplo, no esperamos que desarrolles un sistema de authenticación desde 0, se pueden usar librerías como [device](https://github.com/plataformatec/devise) o [sorcery](https://github.com/NoamB/sorcery), en cambio no está permitido usar [refinery](http://www.refinerycms.com/) o [spree](https://github.com/spree/spree) ya que de hacerlo no podremos evaluar tu forma de resolver el problema sino el conocimiento específico de estas herramientas.
+
+### Tengo que hacer las vistas también?
+
+Sí, es necesario desarrollar una versión funcional de la aplicación con sus páginas HTML pero **no es necesario desarrollar dos aplicaciones, una cliente y otra servidor** una simple apicación full stack es lo que se busca.
 
 ## Siguiente paso
 
