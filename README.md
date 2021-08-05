@@ -1,41 +1,24 @@
-# Prueba de Ingenious Softworks para candidatos
+# README
 
-Bienvenido **candidato**, estás viendo el repositorio que contiene todos los materiales necesarios para realizar la prueba. La misma deberá entregarse 4 días después de recibida la notificación por correo electrónico.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Por favor, te pedimos que completes la lectura de este README antes de comenzarla ya que muchas de las dudas que puedas tener serán contestadas.
+Things you may want to cover:
 
-## Sobre la prueba
+* Ruby version
 
-La prueba consiste en desarrollar una **Web App** utilizando este repositorio como guía.
+* System dependencies
 
-## Sobre el repositorio
+* Configuration
 
-Este repositorio contiene la siguiente estructura:
+* Database creation
 
-```
-.
-├── README.md
-├── app
-└── instructions
-```
+* Database initialization
 
-La carpeta [instructions](instructions) contiene la letra del problema y respuestas a posibles preguntas que puedan surgir.
+* How to run the test suite
 
-## Cómo entregar la prueba
+* Services (job queues, cache servers, search engines, etc.)
 
-Para entregar la prueba será necesario devolver este mismo repositorio con la aplicación desarrollada en la carpeta [app](app) e instrucciones para su instalación si existieran.
+* Deployment instructions
 
-La forma más práctica de hacerlo es crear un [fork](https://github.com/ingsw-dev/backend-test#fork-destination-box) de este repositorio y desarrollarla allí entregando la url del nuevo repositorio una vez finalizado el desarrollo.
-
-Otra forma de entrega es devolver este mismo repositorio (en un zip) por email con la aplicación desarrollada dentro de `app`.
-
-En ningún caso es necesario enviar o commitear directorios que se provicionen automáticamente.
-
-Para que sea más fácil la instalación y corrección te recomendamos crear un archivo README dentro de [app](app) con los pasos para instalar y levantar la aplicación que has desarrollado.
-
-## Siguientes pasos
-
-Lo siguiente que debes hacer [leer la letra del problema](instructions) y [comenzar a desarrollar](app).
-
-* [Leer la letra del problema](instructions)
-* [Comenzar a desarrollar la app](app)
+* ...
